@@ -1,0 +1,481 @@
+@media only screen and (max-width: 960px){
+
+.navbar .logo{
+left: 70px;
+}
+	.site-main .site-banner .containerr  .over-content {
+
+ padding-bottom:4rem; 
+	padding-top:2rem;
+}
+
+   .site-main .site-banner .site-title{
+	 padding-left:5rem;
+}
+
+.site-main .site-banner .site-title h3{
+    font-size: 2.1rem;   
+}
+    .site-main .site-banner .site-title h2{
+    font-size: 2.8rem;
+}
+
+  .site-main .site-banner .site-title p{
+    font-size: 1.1rem;
+}
+
+.site-main .site-banner .banner-image{
+	padding-top: 7rem;
+	padding-left: 5rem;
+}
+
+.site-main .site-banner .banner-image > img{
+    width: 13rem;
+    height: 13rem;
+
+}
+
+.site-main .site-banner a{
+	font-size: 17px;
+}
+
+.social-icons .icon{
+	width: 55px;
+	height: 55px;
+padding-top:0.65rem;
+}
+}
+
+
+@media only screen and (max-width: 768px){
+
+
+.navbar .logo{
+left: 45px;
+}
+
+	   .site-main .site-banner .site-title{
+	 padding-left:3.5rem;
+}
+
+.site-main .site-banner .banner-image{
+	padding-left: 4rem;
+}
+
+	.section2 .row1 .colmn h3{
+	padding-bottom: 1.3em;
+	padding-left: 0em;
+text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 670px){
+.site-main .site-banner .banner-image{
+	padding-left: 2rem;
+}
+}
+
+@media only screen and (max-width: 652px){
+
+	.section2 .row2 .col-lg-7 .btn1{
+	margin-right: 0.9em;
+}
+
+.section2 .row2 .col-lg-7  span{
+	font-size: 18px;
+}
+
+.section2 .row2 a{
+	padding: 0.3em;
+
+}
+
+.section2 .row2 .button{
+	padding-left: 1.5em;
+}
+
+}
+
+
+@media only screen and (max-width: 583px){
+
+.navbar .logo{
+top: 25px;
+left: 34px;
+}
+
+.navbar .logo img{
+  width: 50px;
+  height: 50px;
+}
+
+	.site-main .site-banner .containerr  .over-content {
+
+ padding-bottom:3rem; 
+	padding-top:1.5rem;
+}
+
+    .site-main .site-banner .site-title{
+	 padding-left:3rem;
+}
+
+.site-main .site-banner .banner-image{
+	padding-left: 1.3rem;
+}
+
+.site-main .site-banner .site-title h3{
+	 padding-top: 30%;
+    font-size: 1.5rem;   
+}
+    .site-main .site-banner .site-title h2{
+    font-size: 2.5rem;
+}
+
+  .site-main .site-banner .site-title p{
+    font-size: 0.9rem;
+}
+
+
+
+.site-main .site-banner .banner-image > img{
+    width: 11rem;
+    height: 11rem;
+
+}
+
+.site-main .site-banner a{
+	font-size: 14px;
+}
+
+
+}
+
+@media only screen and (max-width: 575px){
+
+		.site-main .site-banner .containerr  .over-content {
+
+ padding-bottom:5rem; 
+	
+}
+
+ .site-main .site-banner .site-title{
+	 padding-left:7rem;
+}
+
+.site-main .site-banner .site-title h3{
+	padding-top: 25%;
+    font-size: 2.1rem;   
+}
+    .site-main .site-banner .site-title h2{
+    font-size: 2.8rem;
+}
+
+  .site-main .site-banner .site-title p{
+    font-size: 1.1rem;
+}
+
+.site-main .site-banner .banner-image{
+	padding-top: 5rem;
+	
+}
+
+.site-main .site-banner .banner-image > img{
+    width: 13rem;
+    height: 13rem;
+
+}
+
+.site-main .site-banner a{
+	font-size: 17px;
+}
+
+}
+
+
+@media only screen and (max-width: 530px){
+	 .site-main .site-banner .site-title{
+	 padding-left:5rem;
+}
+}
+
+@media only screen and (max-width: 470px){
+	 .site-main .site-banner .site-title{
+	 padding-left:3.5rem;
+}
+}
+
+@media only screen and (max-width: 430px){
+	 .site-main .site-banner .site-title{
+	 padding-left:2rem;
+}
+}
+
+@media only screen and (max-width: 393px){
+	 .site-main .site-banner .site-title{
+	 padding-left:4rem;
+}
+}
+
+@media only screen and (max-width: 355px){
+	 .site-main .site-banner .site-title h3{
+	 padding-top:30%;
+}
+}
+
+@media only screen and (max-width: 332px){
+	 .site-main .site-banner .site-title{
+	 padding-left:3rem;
+}
+}
+
+@media only screen and (max-width: 310px){
+	 .site-main .site-banner .site-title{
+	 padding-left:2rem;
+}
+}
+
+@media only screen and (max-width: 290px){
+	 .site-main .site-banner .site-title{
+	 padding-left:1.6rem;
+}
+
+.social-icons .icon{
+	width: 50px;
+	height: 50px;
+padding-top:0.65rem;
+}
+}
+
+@media only screen and (max-width: 720px){
+	.section6 .row .cform{
+padding: 2rem 2rem 2rem 3rem;
+}
+
+.section6 iframe{
+	width: 37vw;
+}
+}
+
+@media only screen and (max-width: 575px){
+
+.section2 .row3 ul li:last-child{
+		padding-bottom: 2px;
+	}
+
+	.section2 .row2 .signature{
+	padding-left: 2em;
+	text-align: left;
+	padding-bottom: 2em;
+
+}
+
+	.section6 iframe{
+	width: 75vw;
+}
+
+.section6 .address{
+	padding-left: 4.5rem;	
+}
+}
+
+
+@media only screen and (max-width: 480px){
+
+	.section2 .containerr1{
+	padding: 1.6em 1.6em;
+	width: 85vw;
+
+}
+
+		.section2 .containerr1 .heading h1{
+			font-size: 33px;
+		}
+
+	.section2 .containerr1 .heading p{
+	letter-spacing: 0.25em;
+	font-size: 14px;
+	padding-bottom: 0.3em;
+	padding-top: 0.3em;
+	
+}
+
+.section2 .containerr1 .text-justify{
+	padding: 0.4em 0em 0.7em 0em;
+}
+
+.section2 .containerr1 .text-justify span{
+	font-size: 2.5em;
+}
+
+.section2 .containerr1 .text-justify p{
+		font-size: 15px;	
+}
+
+.section2 .row1 .col-lg-5 img{
+	width: 230px;
+	height: 230px;
+}
+
+.section2 .row3  ul li h5{
+	font-size: 1.03rem;
+}
+
+.section2 .row2 button{
+	padding: 0.4em;
+}
+
+.section2 .row2 .col-lg-7 .btn1{
+	margin-right: 0.8em;
+}
+
+.section2 .row2 .col-lg-7  span{
+	font-size: 15px;
+}
+
+.section2 .row2 .button{
+	padding-left: 0.8em;
+
+}
+
+.section2 .row2 .button{
+	padding-left: 2em;
+
+}
+
+.section2 .row2 .signature{
+	padding-left: 2em;
+
+}
+
+.section2 .containerr1 .skill-row .html{
+	margin-bottom: 20px;
+}
+
+
+.section2 .containerr1 .skill-row div[class^='tag-'] p{
+	
+	font-size: 15px;
+}
+
+.section2 .containerr1 .skill-row .progress{
+	height: 15px;
+}
+
+.section2 .containerr1 .skill-row .progress-bar{
+	height: 7px;
+	border-radius: 20px;
+	margin:auto 2px;
+}
+
+.section2 .containerr1 .skill-row .progress .counter-number{
+	font-size: 10px;
+}
+
+.section2 .education-experience  p{
+	font-size: 15px;
+}
+.section2 .education-experience h5{
+	font-size: 1.03rem;
+}
+
+.section2 .education-experience  h4{
+	font-size: 1.23rem;
+}
+
+.section6  .heading h1{
+			font-size: 33px;
+		}
+
+	.section6  .heading p{
+	letter-spacing: 0.25em;
+	font-size: 14px;
+	padding-bottom: 0.3em;
+	padding-top: 0.3em;
+	
+}
+
+.section6   h4{
+	font-size: 1.23rem;
+}
+
+.section6 h5{
+	font-size: 1.03rem;
+}
+
+.section6 .row .cform{
+padding: 2.2rem;
+
+}
+
+.section6 .input-group input, 
+.section6 textarea{
+	font-size: 14px;
+}
+
+.section6 .contact-form button{
+	font-size: 14px;
+}
+
+.section6 .address{
+	padding-left: 3.5rem;	
+}
+
+footer h4{
+	font-size: 1.23rem;
+}
+
+footer .three{
+	font-size: 15px;
+}
+
+}
+
+
+
+@media only screen and (max-width: 390px){
+
+	.section2 .containerr1{
+	padding: 1.4em 1.4em;
+
+}
+
+.section2 .containerr1 .text-justify{
+	padding: 0.4em 0em 0.1em 0em;
+}
+
+.section2 .containerr1 .text-justify span{
+	font-size: 2.35em;
+}
+
+.section2 .containerr1 .text-justify p{
+		font-size: 13px;	
+}
+
+.section2 .containerr1 .skill-row .html{
+	margin-bottom: 10px;
+}
+
+.section2 .containerr1 .skill-row div[class^='tag-']{
+	margin-bottom: 15px;
+}
+
+.section2 .containerr1 .skill-row div[class^='tag-'] p{
+	font-size: 13px;
+}
+
+.section2 .education-experience  p{
+	font-size: 13px;
+}
+
+.section6 iframe{
+	width: 72vw;
+}
+
+.section6 .address{
+	padding-left: 3rem;	
+}
+
+}
+
+
